@@ -1,9 +1,2 @@
-requests==2.31.0
-colorama==0.4.6
-flask==3.0.0
-reqeusts==2.31.0
-colorma==0.4.6
-urllib3>=1.26.0
-numpy
-requests==2.31.0
-$$invalid_pkg@@
+streamlit
+pandas
